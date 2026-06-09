@@ -230,12 +230,12 @@ Ao abrir o app, você verá uma lista com todos os livros cadastrados.
 - Clique em **"Save"**
 
 ### 3. **Editar um Livro**
-- Clique no ícone **✏️ (editar)** no cartão do livro
+- Clique no ícone **editar** no cartão do livro
 - Modifique as informações desejadas
 - Clique em **"Save"**
 
 ### 4. **Deletar um Livro**
-- Clique no ícone **🗑️ (delete)** no cartão do livro
+- Clique no ícone **delete** no cartão do livro
 - Confirme a ação
 
 ---
@@ -293,12 +293,6 @@ O aplicativo trata erros de forma amigável:
 
 ---
 
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido com ❤️ para gerenciar sua livraria favorita.
-
----
-
 ## 🎓 Créditos
 
 Este projeto foi desenvolvido em conjunto durante o curso:
@@ -307,12 +301,6 @@ Este projeto foi desenvolvido em conjunto durante o curso:
 📚 Instrutor: **Ahmed Sawy**
 
 O curso aborda desde conceitos fundamentais até técnicas avançadas de desenvolvimento mobile com React Native, Expo, TypeScript e integração com APIs.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
