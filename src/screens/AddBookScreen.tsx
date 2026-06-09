@@ -49,9 +49,10 @@ const AddBookScreen = ({ onCloseIconPress, onCreateSuccess, selectedItem }) => {
     <View>
       <Ionicons
         name="close-circle"
-        size={24}
+        size={32}
         color="#B80000"
         onPress={onCloseIconPress}
+        style={{alignSelf:'flex-end', margin:10}}
       />
       <View style={styles.body}>
         <Text style={styles.title}>Book Details</Text>

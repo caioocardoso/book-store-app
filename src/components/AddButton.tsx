@@ -5,7 +5,7 @@ import AntDesign from '@expo/vector-icons/AntDesign';
 const AddButton = ({onPress}) => {
   return (
     <TouchableOpacity style={styles.container} onPress={onPress}>
-      <AntDesign name="plus" size={50} color="#fff" />
+      <AntDesign name="plus" size={40} color="#fff" />
     </TouchableOpacity>
   )
 }
@@ -14,14 +14,15 @@ export default AddButton
 
 const styles = StyleSheet.create({
     container:{
-        height: 70,
-        width: 70,
+        height: 60,
+        width: 60,
         backgroundColor: "#1273DE",
         borderRadius:40,
         alignItems: 'center',
         justifyContent: 'center',
         alignSelf: 'center',
         marginBottom:30,
-        position: ""
+        position: "absolute",
+        bottom: 0
     }
 })

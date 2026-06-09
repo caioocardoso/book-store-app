@@ -39,6 +39,7 @@ const HomeScreen = () => {
 
   return (
     <View style={{ flex: 1, backgroundColor: "#fff" }}>
+      <View style={{margin:15}}></View>
       <FlatList
         data={bookList}
         keyExtractor={(item) => item.id}
